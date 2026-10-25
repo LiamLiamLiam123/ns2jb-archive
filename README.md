@@ -53,4 +53,7 @@ checks and cleaned up.
 
 ## Code
 NONE OF THE CODE IS MINE ALL CREDIT TO pepsipu FOR THE JAILBREAK THIS IS JUST AN ARCHIVE
+
 Blog: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
+
+Source: https://gitlab.com/fuyuka-group/ns2jb-guide
