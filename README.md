@@ -52,9 +52,5 @@ passed on the third fresh boot. The first two attempts stopped at validation
 checks and cleaned up.
 
 ## Code
-
-`run.cjs` is the host entrypoint. `engine/switch2/pipeline.cjs` contains the fixed
-launch sequence; `engine/switch2/process/fs-execute.cjs` contains the FS demo.
-The native helper and its source are in `engine/switch2/ro/payload/`.
-Developers can reproduce it with Zig 0.15.2:
-`node engine/build-payload.cjs --check --zig /path/to/zig`.
+NONE OF THE CODE IS MINE ALL CREDIT TO pepsipu FOR THE JAILBREAK THIS IS JUST AN ARCHIVE
+Blog: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
